@@ -1,0 +1,5 @@
+Django==1.10.6
+djangorestframework==3.6.2
+djangorestframework-jwt
+psycopg2
+django-tenant-schemas
